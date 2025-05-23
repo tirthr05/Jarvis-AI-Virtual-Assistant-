@@ -1,4 +1,4 @@
-                                    **                     🚀 Jarvis - The Ultimate Voice-Activated Virtual Assistant 🤖**
+                                                         🚀 Jarvis - The Ultimate Voice-Activated Virtual Assistant 🤖
 
 Prepare to embark on an exhilarating journey with Jarvis, a cutting-edge, AI-powered voice-activated virtual assistant! Harnessing the raw power of Python and OpenAI’s GPT-3.5-turbo, Jarvis transcends the ordinary to deliver a truly transformative user experience. 🔥
 ✨ Features That Will Blow Your Mind ✨
